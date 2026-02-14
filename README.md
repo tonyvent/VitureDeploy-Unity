@@ -152,7 +152,3 @@ var result = await AdbHelper.InstallAsync("192.168.1.100:5555", "/path/to/app.ap
 // Launch an app
 var result = await AdbHelper.LaunchAppAsync("192.168.1.100:5555", "com.company.app");
 ```
-
-## License
-
-MIT License - Feel free to use and modify for your projects.
