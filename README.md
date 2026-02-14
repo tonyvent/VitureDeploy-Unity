@@ -11,6 +11,14 @@ A Unity Editor plugin for building, connecting, and deploying APKs to Viture Nec
 - ⚡ **Auto-Deploy** - Optionally auto-deploy after every build
 - 💾 **Saved Devices** - Remember devices for quick reconnection
 
+---
+
+## Demo
+
+https://github.com/user-attachments/assets/4d2a13ba-b3c4-4f8b-936d-08360f1ca8d5
+
+---
+
 ## Installation
 
 ### Option 1: Copy to Assets folder
