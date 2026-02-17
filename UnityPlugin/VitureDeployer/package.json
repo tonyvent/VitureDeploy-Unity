@@ -1,0 +1,22 @@
+{
+    "name": "com.viture.deployer",
+    "displayName": "Viture Deployer",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "Unity Editor plugin for building, connecting, and deploying APKs to Viture Neckband devices and other Android devices via wireless ADB.",
+    "keywords": [
+        "viture",
+        "android",
+        "adb",
+        "deploy",
+        "xr",
+        "ar",
+        "build"
+    ],
+    "author": {
+        "name": "BananaRhinoStudios",
+        "url": "https://github.com/tonyvent/VitureDeploy-Unity"
+    },
+    "category": "Tools",
+    "dependencies": {}
+}
